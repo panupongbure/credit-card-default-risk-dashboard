@@ -1,0 +1,21 @@
+model,actual,predicted,count
+Logistic Regression,0,0,3656
+Logistic Regression,0,1,1017
+Logistic Regression,1,0,526
+Logistic Regression,1,1,801
+Random Forest,0,0,3745
+Random Forest,0,1,928
+Random Forest,1,0,504
+Random Forest,1,1,823
+XGBoost,0,0,3682
+XGBoost,0,1,991
+XGBoost,1,0,484
+XGBoost,1,1,843
+SVM,0,0,3709
+SVM,0,1,964
+SVM,1,0,541
+SVM,1,1,786
+Gaussian Naive Bayes,0,0,3656
+Gaussian Naive Bayes,0,1,1017
+Gaussian Naive Bayes,1,0,590
+Gaussian Naive Bayes,1,1,737

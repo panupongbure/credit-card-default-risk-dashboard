@@ -1,0 +1,12 @@
+{
+  "rows": 30000,
+  "default_rate": 0.2212,
+  "final_model": "XGBoost",
+  "best_model_by_roc_auc": "XGBoost",
+  "outputs": {
+    "scored": "C:\\tmp\\credit-default-risk-dashboard\\data\\processed\\credit_default_scored.csv",
+    "metrics": "C:\\tmp\\credit-default-risk-dashboard\\data\\processed\\model_metrics.csv",
+    "confusion": "C:\\tmp\\credit-default-risk-dashboard\\data\\processed\\confusion_matrix.csv",
+    "feature_importance": "C:\\tmp\\credit-default-risk-dashboard\\data\\processed\\feature_importance.csv"
+  }
+}
