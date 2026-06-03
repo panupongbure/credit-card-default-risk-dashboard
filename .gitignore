@@ -1,0 +1,12 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pkl
+*.joblib
+
+node_modules/
+outputs/
+build/
+data/raw/
