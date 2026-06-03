@@ -128,11 +128,6 @@ assets/high_risk_customers.png
 
 ![High Risk Customers](assets/high_risk_customers.png)
 
-## Detailed Thai Explanation
-
-For a detailed Thai walkthrough of the project workflow, variables, feature engineering, model metrics, dashboard charts, business usage, benefits, and limitations, see:
-
-[PROJECT_EXPLANATION_TH.md](PROJECT_EXPLANATION_TH.md)
 
 ## Bullet
 
